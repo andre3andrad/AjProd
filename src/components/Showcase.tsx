@@ -212,14 +212,13 @@ export default function Showcase() {
                     ) : (
                       <video 
                         key={item.videoSrc}
-                        src={item.videoSrc}
                         autoPlay 
                         muted
                         controls 
                         playsInline
                         preload="auto"
-                        cclassName="w-full h-auto max-h-[75vh] object-contain rounded-xl"
-                      />
+                        className="w-full h-auto max-h-[75vh] object-contain rounded-xl"
+                      >
                         <source src={encodeURI(item.videoSrc)} type="video/mp4" />
                       </video>
                     )}
