@@ -1,0 +1,187 @@
+{
+  "Hero": {
+    "greeting": "HI. OI. HOLA.",
+    "headline": "Content that sells, converts and goes viral.",
+    "subheadline": "We are an audiovisual production studio that helps brands and creators stand out with high-level videos.",
+    "cta": "Let's talk"
+  },
+  "Navigation": {
+    "work": "Work",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Let's talk"
+  },
+  "SocialProof": {
+    "videos": "200+",
+    "videosLabel": "Videos Delivered",
+    "brands": "50+",
+    "brandsLabel": "Brands",
+    "global": "BR, US & EU",
+    "globalLabel": "Global Reach"
+  },
+  "Services": {
+    "title": "Our Services",
+    "youtube": {
+      "title": "YouTube Production",
+      "desc": "Magnetic videos that hold attention from the first to the last second, built to dominate the algorithm."
+    },
+    "brands": {
+      "title": "Brand Content",
+      "desc": "Premium campaigns and commercials that elevate your product's perception in the international market."
+    },
+    "motion": {
+      "title": "Motion & Post-production",
+      "desc": "High-impact editing, cinematic color grading, and animated motion graphics."
+    },
+    "strategy": {
+      "title": "Content Strategy",
+      "desc": "Audience analysis and creative direction to build long-term authority."
+    },
+    "filmmaking": {
+      "title": "Filmmaking",
+      "desc": "On-site video production, directing, and cinematography with industry-leading cinema equipment."
+    },
+    "aerial": {
+      "title": "Drone Films",
+      "desc": "Breathtaking drone shots and aerial cinematography to add scale and production value to your projects."
+    }
+  },
+  "Showcase": {
+    "title": "Work",
+    "subtitle": "Our best work",
+    "viewAll": "View all projects"
+  },
+  "HowItWorks": {
+    "title": "How It Works",
+    "step1Title": "Alignment",
+    "step1Desc": "We understand your brand, your goals, and your audience.",
+    "step2Title": "Strategy & Creation",
+    "step2Desc": "We develop the creative concept and script for your video.",
+    "step3Title": "Production",
+    "step3Desc": "Capture with cinema equipment and specialized crew.",
+    "step4Title": "Post-Production",
+    "step4Desc": "Editing, color grading, and sound design for a premium result."
+  },
+  "Clients": {
+    "subtitle": "Trusted Partners",
+    "title": "Our Clients"
+  },
+  "FinalCTA": {
+    "title": "Ready to elevate your content?",
+    "subtitle": "Let's talk and find out how we can help your brand grow.",
+    "button": "Start now",
+    "modal": {
+      "badge": "Partnerships & New Projects",
+      "title": "Let's bring your next project to life.",
+      "message": "Connect directly with our co-founders and official channels. Choose your preferred channel so we can align on your vision and take your content to the highest level.",
+      "whatsappAndre": "Chat with André Andrade",
+      "whatsappAndreRole": "Co-founder, Filmmaker & AI Specialist",
+      "whatsappJoao": "Chat with João Henrique",
+      "whatsappJoaoRole": "Co-founder & Screenwriter (Retention)",
+      "instagram": "Official Instagram",
+      "instagramHandle": "@ajproductions.lab",
+      "instagramDesc": "Behind the scenes, productions & updates",
+      "email": "Corporate Email",
+      "emailDesc": "Formal proposals, briefs & new projects",
+      "emailAddress": "aj.prodinc@gmail.com",
+      "chat": "Chat now",
+      "visit": "View Profile",
+      "send": "Send Email",
+      "copy": "Copy",
+      "copied": "Copied!"
+    }
+  },
+  "Footer": {
+    "description": "Audiovisual and content creation for brands and creators.",
+    "linksTitle": "Quick Links",
+    "socialTitle": "Social",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "Team": {
+    "title": "Our Team",
+    "subtitle": "The minds behind AJ",
+    "andre": {
+      "name": "André Andrade",
+      "role": "Co-founder, Editor, Filmmaker & AI Specialist",
+      "bio": "Blends a cinematic eye, sharp editing rhythm, and the latest artificial intelligence technologies. At AJ., he operates from shooting to post-production, pioneering innovative AI workflows to turn ideas into striking, efficient, and high-impact visual narratives. Former founder of Sense Produtora.",
+      "clientsTitle": "Focus Areas & Leadership",
+      "contactBadge": "Executive Leadership & Creative Direction",
+      "contactTitle": "Let's Elevate Your Brand to the Next Level",
+      "contactSubtitle": "Get in touch directly for executive direction, high-end audiovisual co-productions, AI innovation, or commercial partnerships.",
+      "whatsappLabel": "Direct WhatsApp",
+      "whatsappDesc": "Executive contact and fast response",
+      "whatsappCta": "Chat on WhatsApp",
+      "instagramLabel": "Official Instagram",
+      "instagramDesc": "Behind the scenes, productions & work",
+      "instagramCta": "View Profile",
+      "emailLabel": "Corporate Email",
+      "emailDesc": "Formal proposals, briefs and business",
+      "emailCta": "Send Email",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "features": {
+        "cinemaTitle": "Direction & Filmmaking",
+        "cinemaDesc": "Authorial cinematic eye, from creative concept and shooting to high-standard international finishing.",
+        "aiTitle": "Applied Artificial Intelligence",
+        "aiDesc": "Pioneering AI pipelines accelerating post-production and delivering visual impact beyond traditional methods.",
+        "leadershipTitle": "Executive Vision & Business",
+        "leadershipDesc": "Former founder of Sense Produtora and AJ. co-founder, bridging premium aesthetics to real business growth."
+      },
+      "ctaBanner": "Looking for top-tier co-production or executive direction for your project? Connect directly with André."
+    },
+    "joao": {
+      "name": "João Henrique",
+      "role": "Co-founder of AJ., Screenwriter & High-Retention Editor",
+      "bio": "Co-founder of AJ., screenwriter and editor focused on high retention and technology. With experience in creating viral content that surpassed millions of views, he blends entrepreneurial vision and screenplay technique to build high-engagement audiovisual projects.",
+      "clientsTitle": "Specialties & Focus",
+      "contactBadge": "Available for Projects & Partnerships",
+      "contactTitle": "Let's Build Something Extraordinary",
+      "contactSubtitle": "Get in touch directly for strategic screenwriting, commercial partnerships, retention consulting, or new productions.",
+      "whatsappLabel": "Business WhatsApp",
+      "whatsappDesc": "Direct contact and fast response",
+      "whatsappCta": "Chat on WhatsApp",
+      "emailLabel": "Commercial Email",
+      "emailDesc": "Proposals, briefings and new projects",
+      "emailCta": "Send Email",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "features": {
+        "viralTitle": "Scriptwriting & High Retention",
+        "viralDesc": "Narrative frameworks engineered second-by-second to hook viewers and maximize watch time.",
+        "viewsTitle": "Millions of Views",
+        "viewsDesc": "Proven track record with viral content that crossed the million-view milestone on YouTube and social platforms.",
+        "techTitle": "Technology & Applied AI",
+        "techDesc": "Entrepreneurial mindset combined with cutting-edge tech tools to produce with speed and precision."
+      },
+      "ctaBanner": "Have a brand, channel, or project in need of high retention? Let's talk."
+    },
+    "bruno": {
+      "name": "Bruno",
+      "role": "Retention Specialist Editor",
+      "bio": "Video editor specializing in Shorts, Minecraft, and Roblox content. With over 134M views generated, I've worked with channels reaching 8% of all Minecraft content on YouTube. My goal is to turn ambitious ideas into dynamic, high-retention videos.",
+      "stats": {
+        "videos": "135 Videos",
+        "views": "134.05M Views",
+        "likes": "4.73M Likes"
+      },
+      "clientsTitle": "Clients",
+      "topVideosTitle": "Top Videos"
+    },
+    "thammy": {
+      "name": "Thammy Catherine",
+      "role": "Gaming Specialist Editor",
+      "bio": "Passionate about video editing, turning creativity into a full-time career. Specialized in high-retention gaming content, I focus on dynamic pacing and visual storytelling to keep viewers hooked from the very first second.",
+      "stats": {
+        "videos": "28 Videos",
+        "views": "59.38M Views",
+        "likes": "949.6K Likes"
+      },
+      "clientsTitle": "Clients",
+      "topVideosTitle": "Top Videos"
+    }
+  }
+}

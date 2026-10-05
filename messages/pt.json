@@ -1,0 +1,187 @@
+{
+  "Hero": {
+    "greeting": "HI. OI. HOLA.",
+    "headline": "Conteúdo que vende, converte e viraliza.",
+    "subheadline": "Somos um estúdio de produção audiovisual que ajuda marcas e criadores a se destacarem com vídeos de alto nível.",
+    "cta": "Fale com a gente"
+  },
+  "Navigation": {
+    "work": "Work",
+    "services": "Serviços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "cta": "Fale com a gente"
+  },
+  "SocialProof": {
+    "videos": "+200",
+    "videosLabel": "Vídeos Entregues",
+    "brands": "+50",
+    "brandsLabel": "Marcas",
+    "global": "BR, EUA & UE",
+    "globalLabel": "Alcance Global"
+  },
+  "Services": {
+    "title": "Nossos Serviços",
+    "youtube": {
+      "title": "Produção para YouTube",
+      "desc": "Vídeos magnéticos que prendem a atenção do primeiro ao último segundo, feitos para dominar o algoritmo."
+    },
+    "brands": {
+      "title": "Conteúdo para Marcas",
+      "desc": "Campanhas e comerciais premium que elevam a percepção do seu produto no mercado internacional."
+    },
+    "motion": {
+      "title": "Motion & Pós-produção",
+      "desc": "Edição de alto impacto, color grading cinematográfico e gráficos animados."
+    },
+    "strategy": {
+      "title": "Estratégia de Conteúdo",
+      "desc": "Análise de audiência e direcionamento criativo para construir autoridade de longo prazo."
+    },
+    "filmmaking": {
+      "title": "Filmmaker",
+      "desc": "Produção de vídeo presencial, direção e cinematografia com equipamentos de cinema de ponta."
+    },
+    "aerial": {
+      "title": "Drone Films",
+      "desc": "Captações incríveis com drones e cinematografia aérea para dar escala e valor de produção aos seus projetos."
+    }
+  },
+  "Showcase": {
+    "title": "Portfólio",
+    "subtitle": "Nosso melhor trabalho",
+    "viewAll": "Ver todos os projetos"
+  },
+  "HowItWorks": {
+    "title": "Como Funciona",
+    "step1Title": "Alinhamento",
+    "step1Desc": "Entendemos sua marca, seus objetivos e sua audiência.",
+    "step2Title": "Estratégia & Criação",
+    "step2Desc": "Desenvolvemos o conceito criativo e o roteiro do seu vídeo.",
+    "step3Title": "Produção",
+    "step3Desc": "Captura com equipamentos de cinema e equipe especializada.",
+    "step4Title": "Pós-Produção",
+    "step4Desc": "Edição, color grading e sound design para um resultado premium."
+  },
+  "Clients": {
+    "subtitle": "Marcas que confiam",
+    "title": "Nossos Clientes"
+  },
+  "FinalCTA": {
+    "title": "Pronto para elevar o nível do seu conteúdo?",
+    "subtitle": "Vamos conversar e descobrir como podemos ajudar sua marca a crescer.",
+    "button": "Comece agora",
+    "modal": {
+      "badge": "Parcerias & Novos Projetos",
+      "title": "Vamos dar vida ao seu próximo projeto.",
+      "message": "Conecte-se diretamente com nossos cofundadores e canais oficiais. Escolha o canal de sua preferência para alinharmos sua visão e levarmos seu conteúdo ao mais alto nível.",
+      "whatsappAndre": "Falar com André Andrade",
+      "whatsappAndreRole": "Cofundador, Filmmaker & Especialista em IA",
+      "whatsappJoao": "Falar com João Henrique",
+      "whatsappJoaoRole": "Cofundador & Roteirista (Alta Retenção)",
+      "instagram": "Instagram Oficial",
+      "instagramHandle": "@ajproductions.lab",
+      "instagramDesc": "Bastidores, produções e conexões",
+      "email": "E-mail Corporativo",
+      "emailDesc": "Propostas formais, briefings e novos projetos",
+      "emailAddress": "aj.prodinc@gmail.com",
+      "chat": "Conversar",
+      "visit": "Acessar Perfil",
+      "send": "Enviar E-mail",
+      "copy": "Copiar",
+      "copied": "Copiado!"
+    }
+  },
+  "Footer": {
+    "description": "Audiovisual e criação de conteúdos para marcas e criadores.",
+    "linksTitle": "Links Rápidos",
+    "socialTitle": "Redes Sociais",
+    "contactTitle": "Contato",
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  },
+  "Team": {
+    "title": "Nossa Equipe",
+    "subtitle": "Quem faz acontecer",
+    "andre": {
+      "name": "André Andrade",
+      "role": "Cofundador, Editor, Filmmaker & Especialista em IA",
+      "bio": "Une olhar cinematográfico, ritmo apurado de montagem e as mais recentes tecnologias de inteligência artificial. Na AJ., atua da captação à pós-produção, explorando fluxos inovadores com IA para transformar ideias em narrativas visuais marcantes, eficientes e de alto impacto. Ex Dono da Antiga Sense Produtora.",
+      "clientsTitle": "Áreas de Atuação & Liderança",
+      "contactBadge": "Liderança Executiva & Direção Criativa",
+      "contactTitle": "Vamos Construir o Próximo Nível da sua Marca?",
+      "contactSubtitle": "Entre em contato diretamente para direção executiva, coproduções de alto padrão, projetos inovadores com IA ou parcerias comerciais.",
+      "whatsappLabel": "WhatsApp Direto",
+      "whatsappDesc": "Atendimento executivo e contato ágil",
+      "whatsappCta": "Conversar no WhatsApp",
+      "instagramLabel": "Instagram Oficial",
+      "instagramDesc": "Bastidores, produções e conexões",
+      "instagramCta": "Acessar Perfil",
+      "emailLabel": "E-mail Corporativo",
+      "emailDesc": "Propostas formais, briefings e negócios",
+      "emailCta": "Enviar E-mail",
+      "copy": "Copiar",
+      "copied": "Copiado!",
+      "features": {
+        "cinemaTitle": "Direção & Filmmaking",
+        "cinemaDesc": "Olhar cinematográfico autoral, da concepção criativa e captação à pós-produção com padrão internacional.",
+        "aiTitle": "Inteligência Artificial Aplicada",
+        "aiDesc": "Fluxos pioneiros de IA que aceleram a pós-produção e geram impacto visual inalcançável por métodos tradicionais.",
+        "leadershipTitle": "Visão Executiva & Negócios",
+        "leadershipDesc": "Ex-fundador da Sense Produtora e cofundador da AJ., conectando estética premium a retorno e escala real."
+      },
+      "ctaBanner": "Buscando uma coprodução de ponta ou direção executiva para o seu projeto? Fale diretamente com o André."
+    },
+    "joao": {
+      "name": "João Henrique",
+      "role": "Cofundador da AJ., Roteirista e Editor Focado em Alta Retenção e Tecnologia",
+      "bio": "Cofundador da AJ., roteirista e editor focado em alta retenção e tecnologia. Com experiência na criação de conteúdos virais que ultrapassaram a marca de milhões de visualizações, combina visão empreendedora e técnica de roteiro para construir projetos audiovisuais com alto engajamento.",
+      "clientsTitle": "Especialidades & Foco",
+      "contactBadge": "Disponível para Projetos & Parcerias",
+      "contactTitle": "Vamos Criar Algo Extraordinário?",
+      "contactSubtitle": "Entre em contato diretamente para roteiros estratégicos, parcerias comerciais, consultoria de retenção ou novas produções.",
+      "whatsappLabel": "WhatsApp Comercial",
+      "whatsappDesc": "Atendimento direto e retorno ágil",
+      "whatsappCta": "Conversar no WhatsApp",
+      "emailLabel": "E-mail Comercial",
+      "emailDesc": "Propostas, briefings e novos projetos",
+      "emailCta": "Enviar E-mail",
+      "copy": "Copiar",
+      "copied": "Copiado!",
+      "features": {
+        "viralTitle": "Roteiro & Alta Retenção",
+        "viralDesc": "Narrativas desenhadas segundo a segundo para prender a atenção e maximizar o tempo de tela.",
+        "viewsTitle": "Milhões de Visualizações",
+        "viewsDesc": "Bagagem comprovada em conteúdos virais de alta performance que ultrapassaram a marca de milhões de views.",
+        "techTitle": "Tecnologia & IA Audiovisual",
+        "techDesc": "Visão empreendedora unida às ferramentas tecnológicas mais avançadas para criar com velocidade e precisão."
+      },
+      "ctaBanner": "Tem um canal, marca ou projeto que precisa de alta retenção? Vamos conversar."
+    },
+    "bruno": {
+      "name": "Bruno",
+      "role": "Editor Especialista em Retenção",
+      "bio": "Editor de vídeo especializado em Shorts, Minecraft e Roblox. Com mais de 134 milhões de visualizações geradas, já trabalhei com canais que alcançam 8% de todo o conteúdo de Minecraft no YouTube. Meu objetivo é transformar ideias em vídeos dinâmicos e de alta retenção.",
+      "stats": {
+        "videos": "135 Vídeos",
+        "views": "134.05M Views",
+        "likes": "4.73M Likes"
+      },
+      "clientsTitle": "Clientes",
+      "topVideosTitle": "Vídeos em Destaque"
+    },
+    "thammy": {
+      "name": "Thammy Catherine",
+      "role": "Editora Especialista em Gaming",
+      "bio": "Apaixonada por edição de vídeos, transformei a criatividade na minha carreira. Especializada em conteúdo de gaming de alta retenção, foco em ritmo dinâmico e storytelling visual para prender a atenção do público desde o primeiro segundo.",
+      "stats": {
+        "videos": "28 Vídeos",
+        "views": "59.38M Views",
+        "likes": "949.6K Likes"
+      },
+      "clientsTitle": "Clientes",
+      "topVideosTitle": "Vídeos em Destaque"
+    }
+  }
+}

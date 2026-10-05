@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-inter: var(--font-inter);
+  --font-archivo: var(--font-archivo);
+  
+  --color-aj-black: #15171B;
+  --color-aj-gold: #E8B04B;
+  --color-aj-beige: #F4F2ED;
+  
+  --animate-marquee: marquee 35s linear infinite;
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-aj-black);
+  color: var(--color-aj-beige);
+}
