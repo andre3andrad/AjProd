@@ -153,7 +153,7 @@ export default function Showcase() {
                     onMouseOver={(e) => e.currentTarget.play()}
                     onMouseOut={(e) => { e.currentTarget.pause(); e.currentTarget.currentTime = (item as any).previewTime || 0; }}
                   >
-                    <source src={`${item.videoSrc}#t=${(item as any).previewTime || 0.1}`} type="video/mp4" />
+                    <source src={`${encodeURI(item.videoSrc)}#t=${(item as any).previewTime || 0.1}`} type="video/mp4" />
                   </video>
                 )}
               </div>
@@ -213,11 +213,12 @@ export default function Showcase() {
                       <video 
                         key={item.videoSrc}
                         autoPlay 
+                        muted
                         controls 
                         playsInline
                         className="w-full h-auto max-h-[75vh] object-contain rounded-xl"
                       >
-                        <source src={item.videoSrc} type="video/mp4" />
+                        <source src={encodeURI(item.videoSrc)} type="video/mp4" />
                       </video>
                     )}
                   </div>
